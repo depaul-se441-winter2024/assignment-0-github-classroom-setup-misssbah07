@@ -1,10 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/EOOyxsYa)
+
 # Assignment 0: GitHub Classroom Setup
 
 ## Objective
 
 The objective of this assignment is to setup an account in
-GitHub and demonstrate you can use GitHub Classroom.  It
+GitHub and demonstrate you can use GitHub Classroom. It
 will require basic git skills.
 
 ## Required Steps
@@ -19,7 +20,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is ENTER NAME HERE and my GitHub alias is ENTER ALIAS HERE.
+My name is MOHAMAD MISBAH UDDIN ZIA and my GitHub alias is misssbah07.
 
 ## Optional Next Steps
 
